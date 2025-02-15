@@ -1,0 +1,9 @@
+{
+    "subElements": ["function", "variable", "event"],
+    "explanations": {
+      "function": "A function is a reusable block of code.",
+      "variable": "A variable stores data values.",
+      "event": "An event is an interaction like a click or keypress."
+    }
+  }
+  

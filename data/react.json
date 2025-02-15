@@ -1,0 +1,9 @@
+{
+    "subElements": ["component", "hook", "state"],
+    "explanations": {
+      "component": "A component is a reusable UI piece in React.",
+      "hook": "Hooks let you use state and lifecycle features in React.",
+      "state": "State is a way to store component-specific data in React."
+    }
+  }
+  

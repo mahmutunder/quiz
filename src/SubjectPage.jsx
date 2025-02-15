@@ -1,7 +1,7 @@
 import { useParams, useNavigate } from "react-router-dom";
-import htmlData from "./data/html.json";
-import jsData from "./data/js.json";
-import reactData from "./data/react.json";
+import htmlData from "public/data/html.json";
+import jsData from "public/data/js.json";
+import reactData from "public/data/react.json";
 
 const subjectData = {
   html: htmlData,

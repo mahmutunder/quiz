@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/mahmutunder/quiz",
+  "homepage": "https://mahmutunder.github.io/quiz",
 
   "scripts": {
     "dev": "vite",
